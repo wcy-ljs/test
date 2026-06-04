@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"0a397dacb7b2d82febbfcac971b1d1a6","name":"case用例依赖","statistic":{"failed":1,"broken":0,"skipped":2,"passed":0,"unknown":0,"total":3}},{"uid":"86abcc46617c603d802c3e378b13740e","name":"test_case","statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1}}]}
